@@ -29,7 +29,7 @@ jobs:
 
     steps:
       - name: "Fazeer Checkout"
-        uses: actions/checkout@V4
+        uses: actions/checkout@v4
 
       - name: "Configurar Java 21"
         uses: actions/setup-java@v4
